@@ -36,3 +36,17 @@ introduction.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 4.17-2
++ Revision: 753474
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 4.17-1
++ Revision: 718894
+- texlive-lshort-korean
+- texlive-lshort-korean
+- texlive-lshort-korean
+- texlive-lshort-korean
+
