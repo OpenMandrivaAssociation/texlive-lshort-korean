@@ -6,7 +6,7 @@
 # catalog-version 4.17
 Name:		texlive-lshort-korean
 Version:	4.17
-Release:	9
+Release:	10
 Summary:	Korean introduction to LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/lshort/korean
