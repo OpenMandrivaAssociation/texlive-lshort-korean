@@ -1,6 +1,6 @@
 Name:		texlive-lshort-korean
 Version:	58468
-Release:	1
+Release:	2
 Summary:	Korean introduction to LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/lshort/korean
