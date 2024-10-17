@@ -3,7 +3,7 @@ Version:	58468
 Release:	2
 Summary:	Korean introduction to LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/info/lshort/korean
+URL:		https://www.ctan.org/tex-archive/info/lshort/korean
 License:	FDL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lshort-korean.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lshort-korean.doc.r%{version}.tar.xz
